@@ -1,6 +1,6 @@
 ### Let's make the world a better place. 💻
 Always happy to be a part of any opensource projects.
-[![STATISTICS](https://github-readme-stats.vercel.app/api?username=Izzatullo)](https://github.com/anuraghazra/github-readme-stats)
+[![STATISTICS](https://github-readme-stats.vercel.app/api?username=Izzatullo&show_icons=true)]
 
 <!--
 **Izzatullo/Izzatullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
