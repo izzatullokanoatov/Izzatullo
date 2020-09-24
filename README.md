@@ -1,8 +1,9 @@
 ### Let's make the world a better place. 💻
 Always happy to be a part of any opensource projects.
+
+<!--
 [![STATISTICS](https://github-readme-stats.vercel.app/api?username=Izzatullo&show_icons=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzatullo&langs_count=8)]
-<!--
 **Izzatullo/Izzatullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
